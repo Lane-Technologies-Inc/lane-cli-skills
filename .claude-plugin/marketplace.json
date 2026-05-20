@@ -1,0 +1,40 @@
+{
+    "name": "lane-cli",
+    "owner": {
+        "name": "Lane",
+        "email": "agentic@getonlane.com"
+    },
+    "metadata": {
+        "description": "agent native payment credentials that work today"
+    },
+    "plugins": [
+        {
+            "name": "lane",
+            "source": "./plugins/lane",
+            "description": "TODO:",
+            "author": {
+                "name": "Lane"
+            },
+            "homepage": "https://getonlane.com/",
+            "repository": "https://github.com/Lane-Technologies-Inc/lane-cli-skills",
+            "license": "MIT",
+            "category": "finance",
+            "tags": [
+                "payments",
+                "wallet",
+                "checkout",
+                "credentials",
+                "visa",
+                "link"
+            ],
+            "keywords": [
+                "payments",
+                "wallet",
+                "checkout",
+                "credentials",
+                "visa",
+                "link"
+            ]
+        }
+    ]
+}

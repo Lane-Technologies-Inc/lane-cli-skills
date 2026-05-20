@@ -1,0 +1,10 @@
+{
+    "name": "link",
+    "version": "0.0.1",
+    "description": "TODO:",
+    "author": {
+        "name": "Lane"
+    },
+    "skills": "./skills/",
+    "mcpServers": "./.mcp.json"
+}
